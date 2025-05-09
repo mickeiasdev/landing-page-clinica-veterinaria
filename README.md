@@ -27,10 +27,14 @@ Este repositório contém uma página web desenvolvida como estudo pessoal. O ob
 ## 📁 Estrutura do Projeto
 
 ```bash
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+├── assets
+│   └── css
+│   │   └── index.css
+│   ├── img
+│   │   └── imagens.png (geral)
+│   └── js
+│       └── index.js
+└── index.html
 ```
 
 ## 🚀 Como Visualizar o Projeto
@@ -51,6 +55,10 @@ Durante o desenvolvimento deste projeto, foram aplicados os seguintes conceitos:
 - Implementação de interatividade com JavaScript
 - Organização e separação de responsabilidades entre HTML, CSS e JavaScript
 
-## 📌 Observações
+## 👨‍💻 Autor
 
-Este projeto não tem relação com a disciplina acadêmica e foi desenvolvido como um estudo por fora.
+Desenvolvido por [Mickeias Coelho](https://github.com/mickeiasdev)
+
+Sinta-se à vontade para fazer contribuições ou melhorar o código.
+
+📌 **Observação:** Este projeto foi desenvolvido como parte de um estudo pessoal com o objetivo de praticar e aprofundar conhecimentos na área.
